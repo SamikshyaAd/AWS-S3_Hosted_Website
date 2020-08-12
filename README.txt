@@ -1,4 +1,4 @@
-Deployed Static Website on Amazon web services (AWS)
+Deployed Static Website on Amazon web services (AWS)S3 bucket
 
 In this project,
 1.I hosted static website named Vacation Spots, using Amazon web services (AWS) S3 bucket.
